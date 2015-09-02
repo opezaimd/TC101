@@ -27,7 +27,7 @@ int x, y, z, w;
   string answer;
   cin >> answer;
 
-  if (answer == "Yes")
+  if (answer == "Yes", "yes", "Sure", "sure")
   {
     cout << "Enter two real numbers" << endl;
     cin >> x >> y;
